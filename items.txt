@@ -1,0 +1,1 @@
+{"array":[{"name":"popsicle","price":1.45},{"name":"box","price":1.45},{"name":"pretzel","price":1.45},{"name":"car","price":1.45},{"name":"fear","price":1.45},{"name":"sail","price":1.45}]}
